@@ -5,11 +5,11 @@ Simple daily used git commands
 <table border=0>
   <tr>
     <td>git init</td>
-    <td>-	Initialize a local Git repository</td>
+    <td>(Initialize a local Git repository)</td>
   </tr>
   <tr>
-    <td>git clone</td>
-    <td>ssh://git@github.com/[username]/[repository-name].git	(Create a local copy of a remote repository)</td>
+    <td>git clone ssh://git@github.com/[username]/[repository-name].git	</td>
+    <td>(Create a local copy of a remote repository)</td>
   </tr>
   </table>
 
@@ -172,7 +172,7 @@ git push origin [branch name]</td>
   
   
 ## REMOTE
-<table border=1>
+<table border=0>
   <tr>
     <td>
       git remote add origin ssh://git@github.com/[username]/[repository-name].git	</td>
