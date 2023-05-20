@@ -21,6 +21,10 @@ Simple daily used git commands
     <td>- Check status</td>
   </tr>
   <tr>
+    <td>touch [file-name.txt]</td>
+    <td>- Create File</td>
+  </tr>
+  <tr>
     <td>git add [file-name.txt]</td>
     <td>-	Add a file to the staging area</td>
   </tr>
